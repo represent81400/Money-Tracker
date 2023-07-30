@@ -1,0 +1,142 @@
+[
+    {
+      "id": 1,
+      "title": "Coke",
+      "price": 6,
+      "image": "https://ayb.akinoncdn.com/products/2019/01/18/3544/5aa1ee14-1c83-4213-a62b-773c4785e187_size780x780_quality60_cropCenter.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Fanta",
+      "price": 5,
+      "image": "https://img.freepik.com/premium-photo/aluminum-orange-soda-can-with-fruits-isolated-white_167862-3523.jpg?w=900"
+    },
+    {
+      "id": 3,
+      "title": "Sprite",
+      "price": 5,
+      "image": "https://images.ofix.com/product-image/s99509_2.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Yoghurt",
+      "price": 3,
+      "image": "https://konyamevlana.com/florya/wp-content/uploads/2020/12/sutas-ayran-285ml.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Cranberry juice",
+      "price": 4,
+      "image": "http://esenlik.com.tr//images/prod/5704.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Lemonade",
+      "price": 7,
+      "image": "https://img.freepik.com/free-photo/front-view-soft-drink-bottle-glass_23-2148691218.jpg?w=826&t=st=1690726353~exp=1690726953~hmac=692c64878ee6ee63ce810269251f508831046d6a35b17da5099c7553adc6a3e4"
+    },
+    {
+      "id": 7,
+      "title": "Tea",
+      "price": 3,
+      "image": "https://evidea.akinoncdn.com/products/2021/08/05/62421/e5bda9ce-91bf-453a-96e1-acea983efb2a.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Coffee",
+      "price": 10,
+      "image": "https://media.istockphoto.com/photos/turkish-coffee-foamy-picture-id510413268?k=20&m=510413268&s=612x612&w=0&h=llBhDOUbNHaQXc-ch7UQ_OIWkmJAJUzaf6oZavKUrmQ="
+    },
+    {
+      "id": 9,
+      "title": "Soda",
+      "price": 4,
+      "image": "http://esenlik.com.tr//images/prod/2928.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Playstation 5",
+      "price": 10000,
+      "image": "https://img.freepik.com/premium-photo/generation-controllers-falling-white-background_442713-2775.jpg?w=1800"
+    },
+    {
+      "id": 11,
+      "title": "Bicycle",
+      "price": 1000,
+      "image": "https://productimages.hepsiburada.net/s/37/375/10567819821106.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Tesla",
+      "price": 25000,
+      "image": "https://img.freepik.com/premium-photo/white-tesla-model-s-charging-charging-station_866987-14.jpg?w=1800"
+    },
+    {
+      "id": 13,
+      "title": "Bugatti",
+      "price": 2500000,
+      "image": "https://productimages.hepsiburada.net/s/34/375/10460429320242.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Beef and Rice",
+      "price": 50,
+      "image": "https://img3.aksam.com.tr/imgsdisk/2020/10/31/t25_en-kolay-iskender-sosu-ta-744.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Pita bread",
+      "price": 12,
+      "image": "https://cdn.yemek.com/mnresize/940/940/uploads/2020/04/lahmacun-yeni-one-cikan.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Mension",
+      "price": 2500000000,
+      "image": "https://foto.haberler.com/haber/2020/12/07/israil-de-4-odali-malikane-250-milyon-dolarda-13784975_amp.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Helicopter",
+      "price": 28750000,
+      "image": "https://image.elitema.com.tr/db_images/224/4/11/arimg1138-8---bell-429-exter%C4%B1or.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Yacht",
+      "price": 17500000,
+      "image": "https://d.neoldu.com/news/57966.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Limo",
+      "price": 1000000,
+      "image": "https://img.paratic.com/dosya/2015/03/dunyanin-en-pahali-limuzinleri-1024x683.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Private Island",
+      "price": 125000000,
+      "image": "https://icdn.ensonhaber.com/resimler/galeri/1_11195.jpg"
+    },{
+      "id": 22,
+      "title": "Stadium",
+      "price": 2500000,
+      "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2020/06/01/thumbs_b_c_dc24a18cc233bd960f410911f5d39bf2.jpg"
+    },{
+      "id": 23,
+      "title": "Bitcoin",
+      "price": 60000,
+      "image": "https://www.cumhuriyet.com.tr/Archive/2021/9/27/1872247/kapak_141123.jpg"
+    },{
+      "id": 24,
+      "title": "Air Jordan",
+      "price": 2000,
+      "image": "https://img.freepik.com/free-vector/color-sport-sneaker_98292-3191.jpg?w=1800&t=st=1690726889~exp=1690727489~hmac=f40ac79275b294cbb0451ea7ed352a942ad41ff54069dad9d8c58fce11606323"
+    },{
+      "id": 25,
+      "title": "Football Top",
+      "price": 250,
+      "image": "https://img.freepik.com/free-vector/soccer-jersey-template-sport-t-shirt-design_29096-1273.jpg?w=1800&t=st=1690726999~exp=1690727599~hmac=362002aaf5b7f7043ef9eff0c33307771cdba80d451f32bab7251bfbe205ce02"
+    }
+  ]
