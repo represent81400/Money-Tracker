@@ -1,1 +1,1 @@
-This is a Money Tracker app
+Money Tracker App made with React
